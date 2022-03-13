@@ -1,6 +1,6 @@
 # Django-Api-for-census-application
 
-The project is for the Ethiopian Orthodox Church, which is going to be used to do a census of members and priests ( which will be done via the flutter app by the data collectors ) and manage the collected data via the web admin dashboard. I used Django REST API to do all the back-end jobs. you can check it out on "mh.eotcwestarsi.org" { user name: admin pass:12345678 } and since it is a desktop-first web try to use laptop or desktop or turn on the desktop mode in your mobile. I can email you the apk file or the pictures of the flutter app.
+The project is for the Ethiopian Orthodox Church, which is going to be used to do a census of members and priests ( which will be done via the flutter app by the data collectors ) and manage the collected data via the web admin dashboard. I used Django REST API to do all the back-end jobs. you can check it out on mh.eotcwestarsi.org { user name: admin pass:12345678 } and since it is a desktop-first web try to use laptop or desktop or turn on the desktop mode in your mobile. I can email you the apk file or the pictures of the flutter app.
 contact me on telegram @HenokAayele
 and info.withhenok@gmail.com
 
